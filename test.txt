@@ -1,0 +1,33 @@
+origin is (480,300);
+rot is pi;
+scale is (20,20);
+color is (255,192,203);
+for t from 0 to 2*pi step pi/10000 draw(16*sin(t)*sin(t)*sin(t),13*cos(t)-5*cos(2*t)-2*cos(3*t)-cos(4*t)); --桃心线1
+
+scale is (18,18);
+color is (0,0,255);
+for t from 0 to 2*pi step pi/10000 draw(16*sin(t)*sin(t)*sin(t),13*cos(t)-5*cos(2*t)-2*cos(3*t)-cos(4*t)); --桃心线2
+
+scale is (16,16);
+color is (0,255,0);
+for t from 0 to 2*pi step pi/10000 draw(16*sin(t)*sin(t)*sin(t),13*cos(t)-5*cos(2*t)-2*cos(3*t)-cos(4*t)); --桃心线3
+
+scale is (14,14);
+color is (255,0,0);
+for t from 0 to 2*pi step pi/10000 draw(16*sin(t)*sin(t)*sin(t),13*cos(t)-5*cos(2*t)-2*cos(3*t)-cos(4*t)); --桃心线4
+
+color is (255,192,203);
+notes:(300,300,"I Love You");
+notes:(400,400,"Forever");
+
+
+
+
+
+
+
+
+
+
+
+
