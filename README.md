@@ -4,4 +4,4 @@
 
 CSDN：https://blog.csdn.net/dearliyiyang/article/details/127933627?spm=1001.2014.3001.5501
 
-Blog：https://www.enly.site/blogs
+Blog：https://www.enly.site/blogs/fglcompiler1/
